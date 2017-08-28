@@ -6,11 +6,11 @@ font-family: 'Baloo Tammudu', cursive; font-size: 60px; color: #DC3D24; text-sha
 }
 
 body{
-font-family: 'Indie Flower', cursive;
+font-family: 'Indie Flower', cursive; background-color: #23282B; color: #ffffff; text-align: center;
 
 }
 
 h2,h3,h4,h5,h6{
-font-family: 'Varela Round', sans-serif;
+font-family: 'Varela Round', sans-serif; font-size: 30px; color: DC3D24; sargin-top: 5px; sargin-bottom: 15px;
 
 }
