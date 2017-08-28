@@ -1,7 +1,7 @@
 /* estilo.css */
 
 h1{ /* título */
-font-family: 'Baloo Tammudu', cursive;
+font-family: 'Baloo Tammudu', cursive; font-size: 60px; color: #DC3D24; text-shadow: 0.5px 1.5px #ffffff;
 
 }
 
