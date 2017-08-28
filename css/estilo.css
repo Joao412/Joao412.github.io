@@ -1,1 +1,16 @@
 /* estilo.css */
+
+h1{ /* título */
+font-family: 'Baloo Tammudu', cursive;
+
+}
+
+body{
+font-family: 'Indie Flower', cursive;
+
+}
+
+h2,h3,h4,h5,h6{
+font-family: 'Varela Round', sans-serif;
+
+}
